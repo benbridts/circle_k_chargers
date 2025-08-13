@@ -1,0 +1,10 @@
+{
+  "domain": "circle_k_chargers",
+  "version": "0.0.1",
+  "documentation": "",
+  "name": "Circle K Chargers",
+  "integration_type": "hub",
+  "codeowners": ["@benbridts"],
+  "requirements": [],
+  "iot_class": "local_polling"
+}
